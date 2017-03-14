@@ -1,0 +1,25 @@
+{
+  "name": "reversestring",
+  "version": "1.0.0",
+  "description": "ReverseString application for day2 bootcamp home study",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olarewajuakeemope/reverseString.git"
+  },
+  "author": "Olarewaju Akeem Opeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olarewajuakeemope/reverseString/issues"
+  },
+  "homepage": "https://github.com/olarewajuakeemope/reverseString#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
