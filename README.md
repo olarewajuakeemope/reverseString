@@ -1,5 +1,5 @@
 # reverseString
-ReverseString application for day2 bootcamp home study
+ReverseString application
 
 1. Clone or download the application to your local computer
 2. Run npm install at the root directory
